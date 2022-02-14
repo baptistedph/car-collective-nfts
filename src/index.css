@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'Droid Sans Mono';
+  src: url('./assets/fonts/DroidSansMono.ttf');
+}
+
+@font-face {
+  font-family: 'Impact';
+  src: url('./assets/fonts/Impact.ttf');
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

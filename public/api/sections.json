@@ -1,0 +1,345 @@
+[
+  {
+    "id": 1,
+    "section": "1",
+    "route": "/about",
+    "title": "About",
+    "content": "Car Collective is the first NFT project to produce pixelated automotive artwork at a large-scale. 2424 hand-designed collectibles supercharged for Web3.\n\nA CC NFT is your access to a global network of automotive enthusiasts. Owning a CC NFT turns you into a CC Crew Member. Granting you access to the Car Collective Club. An exclusive Web3 platform across the Metaverse, bridging the gap between generations of car culture and the next generation NFT space.\n\nWe are fueled by our passion for cars. We will be THE destination for petrol geads in and outside the Metaverse with exclusive club memberships events, special auctions, merchandise and much more."
+  },
+  {
+    "id": 2,
+    "section": "1",
+    "route": "/car-creation",
+    "title": "Car creation",
+    "content": "Our in-house artist and co-founder Evian, hand-designs every CC collectible. These 1/1 NFTs are built on a 100x100 pixel grid format.\n\nBefore every car is made, Evian researches the wheelbase of the chosen car. This is a perfect indicator to apply correct scale in the Car Collective Universe. He then researches to find the factory colours that came with the car from period, along with wheel colours, interior trims and even any accessories, attachments or body kits. He begins designing the cars with the tyres, finding the right spacing for wheelbase and then building from the ground up."
+  },
+  {
+    "id": 3,
+    "section": "1",
+    "route": "/genesis-collection",
+    "title": "Genesis collection",
+    "content": "There are 2424 hand designed NFTs, all are created on the Solana blockchain.\n\nEach piece has been designed by own very own in-house artist. Every pixel and choice of colour has been meticulously placed to characterise a detailed yet unique collectibe artwork.\n\nThe Genesis collection consists of 60 different models, all assigned to one of four categories. In the Genesis collection, there is something for everyone, fron small hatchbacks to SUVs and even hypercars. We're also thrown in some easter eggs too."
+  },
+  {
+    "id": 4,
+    "section": "2",
+    "slideId": "1",
+    "route": "/categories/bronze",
+    "title": "Categories",
+    "subtitle": "Bronze",
+    "content": [
+      "15 models",
+      "10 colours",
+      "10 editions",
+      "1500 cars total",
+      "1/1"
+    ]
+  },
+  {
+    "id": 5,
+    "section": "2",
+    "slideId": "2",
+    "route": "/categories/silver",
+    "title": "Categories",
+    "subtitle": "Silver",
+    "content": ["15 models", "8 colours", "5 editions", "600 cars total", "1/1"]
+  },
+  {
+    "id": 6,
+    "section": "2",
+    "slideId": "3",
+    "route": "/categories/gold",
+    "title": "Categories",
+    "subtitle": "Gold",
+    "content": ["15 models", "6 colours", "3 editions", "270 cars total", "1/1"]
+  },
+  {
+    "id": 7,
+    "section": "2",
+    "slideId": "4",
+    "route": "/categories/platinum",
+    "title": "Categories",
+    "subtitle": "Platinum",
+    "content": ["15 models", "3 colours", "1 edition", "270 cars total", "1/1"]
+  },
+  {
+    "id": 8,
+    "section": "3",
+    "slideId": "1",
+    "route": "/specs/CC0997",
+    "title": "Specs",
+    "subtitle": "#CC0997",
+    "content": {
+      "category": "Bronze",
+      "driveTrain": "FWD",
+      "bodyType": "Hatchback",
+      "bodyColour": "Dark Blue",
+      "wheelColour": "Chrome",
+      "seatColour": "Blue",
+      "steeringWheel": "Black",
+      "speed": "6",
+      "acceleration": "5",
+      "braking": "6",
+      "handling": "6",
+      "attachments": "Luggage"
+    },
+    "colours": ["#3344C3", "#FFFFFF", "#00356F", "#000000"]
+  },
+  {
+    "id": 9,
+    "section": "3",
+    "slideId": "2",
+    "route": "/specs/CC0338",
+    "title": "Specs",
+    "subtitle": "#CC0338",
+    "content": {
+      "category": "Silver",
+      "driveTrain": "RWD",
+      "bodyType": "Targa Top",
+      "bodyColour": "Light Green",
+      "wheelColour": "Black",
+      "seatColour": "Black",
+      "steeringWheel": "Black",
+      "speed": "6",
+      "acceleration": "5",
+      "braking": "6",
+      "handling": "7",
+      "attachments": "---"
+    },
+    "colours": ["#77E904", "#2F2F2F", "#131313", "#1B1A1B"]
+  },
+  {
+    "id": 10,
+    "section": "3",
+    "slideId": "3",
+    "route": "/specs/CC0159",
+    "title": "Specs",
+    "subtitle": "#CC0159",
+    "content": {
+      "category": "Gold",
+      "driveTrain": "RWD",
+      "bodyType": "Coupe",
+      "bodyColour": "Red",
+      "wheelColour": "Silver",
+      "seatColour": "Brown",
+      "steeringWheel": "Brown",
+      "speed": "7",
+      "acceleration": "7",
+      "braking": "6",
+      "handling": "6",
+      "attachments": "---"
+    },
+    "colours": ["#C80000", "#DDDDDD", "#A56F0A", "#A56F0A"]
+  },
+  {
+    "id": 11,
+    "section": "3",
+    "slideId": "4",
+    "route": "/specs/CC0032",
+    "title": "Specs",
+    "subtitle": "#CC0032",
+    "content": {
+      "category": "Platinum",
+      "driveTrain": "AWD",
+      "bodyType": "Coupe",
+      "bodyColour": "Grey",
+      "wheelColour": "Silver",
+      "seatColour": "Grey",
+      "steeringWheel": "Grey",
+      "speed": "9",
+      "acceleration": "9",
+      "braking": "8",
+      "handling": "8",
+      "attachments": "---"
+    },
+    "colours": ["#474F51", "#B1B1B1", "#454444", "#434443"]
+  },
+  {
+    "id": 12,
+    "section": "4",
+    "slideId": "1",
+    "route": "/roadmap/automative-occasions",
+    "title": "Road map",
+    "subtitle": "Automative Occasions",
+    "content": "Up until now, the Car Collective Club has been predominantly digital.\n\nOn the next part of the journey, we will deploy real life utility for CC Club Members.\n\nReal world events will consist of local meet ups, activities and exclusive occasions around the world.\n\nThis will begin in the form of real world crew activities and events beginning in March with our London event. Shortly followed by Car Collective x Miami."
+  },
+  {
+    "id": 13,
+    "section": "4",
+    "slideId": "2",
+    "route": "/roadmap/special-commissions-program",
+    "title": "Road map",
+    "subtitle": "Special Commissions Program",
+    "content": "Up until now, the Car Collective Club has been predominantly digital.\n\nOn the next part of the journey, we will deploy real life utility for CC Club Members.\n\nReal world events will consist of local meet ups, activities and exclusive occasions around the world.\n\nThis will begin in the form of real world crew activities and events beginning in March with our London event. Shortly followed by Car Collective x Miami."
+  },
+  {
+    "id": 14,
+    "section": "4",
+    "slideId": "3",
+    "route": "/roadmap/dao",
+    "title": "Road map",
+    "subtitle": "DAO",
+    "content": "Car Collective is fueled by community.\n\nThe integration of a DAO allow us to directly engage with the community and provide the best possible CC club experience.\n\nMore info on The Car Collective DAO to follow in our Discord.\n\nvarimo — 12/02/2022"
+  },
+  {
+    "id": 15,
+    "section": "4",
+    "slideId": "4",
+    "route": "/roadmap/metaverse",
+    "title": "Road map",
+    "subtitle": "Metaverse",
+    "content": "For a truly unmatched experience for Car Collective members, we will roll out a brand new website fully optimised for Web3.\n\nA digital experience of a private club. With virtual garages, auction platforms, chat rooms and more.\n\nMembers will be able to experience a 24/7 interactive network with\n\nlikeminded individuals across the world through their shared passion for cars."
+  },
+  {
+    "id": 16,
+    "section": "4",
+    "slideId": "5",
+    "route": "/roadmap/generative-collection",
+    "title": "Road map",
+    "subtitle": "Generative Collection",
+    "content": "Every single car in The Genesis Collection has been designed by hand.\n\nFor future collections, our in-house artist Ev will work directly with developers to produce exclusive Generative Collections based on the communities most requested cars."
+  },
+  {
+    "id": 17,
+    "section": "4",
+    "slideId": "6",
+    "route": "/roadmap/cc-private-car-club",
+    "title": "Road map",
+    "subtitle": "CC Private Car Club",
+    "content": "We strive to deliver the best experience for Car Collective club members.\n\nThe next chapter of Car Collective sees us deliver our first physical hubs.\n\nMember Entry only\nDAO led car collections\nCar detailing\n Lounge & Bar\nCinema\nBistro Restaurant\nBarbers (Grooming)\nB&B\n\nThe Car Collective UK Club will be the first of it's kind, paving the way for more CC Clubs all around the world."
+  },
+  {
+    "id": 20,
+    "section": "5",
+    "route": "/showroom/bronze",
+    "title": "Showroom"
+  },
+  {
+    "id": 21,
+    "section": "5",
+    "route": "/showroom/silver",
+    "title": "Showroom"
+  },
+  {
+    "id": 22,
+    "section": "5",
+    "route": "/showroom/gold",
+    "title": "Showroom"
+  },
+  {
+    "id": 23,
+    "section": "5",
+    "route": "/showroom/platinum",
+    "title": "Showroom"
+  },
+  {
+    "id": 24,
+    "section": "5",
+    "route": "/showroom/artist-signed",
+    "title": "Showroom"
+  },
+  {
+    "id": 25,
+    "section": "5",
+    "route": "/showroom/special-editions",
+    "title": "Showroom"
+  },
+  {
+    "id": 26,
+    "section": "6",
+    "route": "/meet/alex",
+    "title": "Meet the team",
+    "subtitle": "Alex",
+    "content": [
+      "Co-founder",
+      "Operations",
+      "Rolls Royce Technician",
+      "Crypto enthusiast",
+      { "next": "taran", "previous": "" }
+    ]
+  },
+  {
+    "id": 27,
+    "section": "6",
+    "route": "/meet/taran",
+    "title": "Meet the team",
+    "subtitle": "Taran",
+    "content": [
+      "Head of social",
+      "Account manager",
+      "Crypto enthusiast",
+      { "next": "kenny", "previous": "alex" }
+    ]
+  },
+  {
+    "id": 28,
+    "section": "6",
+    "route": "/meet/kenny",
+    "title": "Meet the team",
+    "subtitle": "Kenny",
+    "content": [
+      "Brand direction",
+      "Brand strategists",
+      "Web3 enthusiast",
+      { "next": "kyle", "previous": "taran" }
+    ]
+  },
+  {
+    "id": 29,
+    "section": "6",
+    "route": "/meet/kyle",
+    "title": "Meet the team",
+    "subtitle": "Kyle",
+    "content": [
+      "Community manager",
+      "Computer scientist",
+      "Gaming enthusiast",
+      { "next": "evian", "previous": "kenny" }
+    ]
+  },
+  {
+    "id": 30,
+    "section": "6",
+    "route": "/meet/evian",
+    "title": "Meet the team",
+    "subtitle": "Evian",
+    "content": [
+      "Co-founder",
+      "Creative direction",
+      "Product designer",
+      "Car enthusiast",
+      { "next": "", "previous": "kyle" }
+    ]
+  },
+  {
+    "id": 31,
+    "section": "7",
+    "route": "/community/1",
+    "content": "this is the content"
+  },
+  {
+    "id": 32,
+    "section": "7",
+    "route": "/community/2",
+    "content": "this is the content"
+  },
+  {
+    "id": 33,
+    "section": "7",
+    "route": "/community/3",
+    "content": "this is the content"
+  },
+  {
+    "id": 34,
+    "section": "7",
+    "route": "/community/4",
+    "content": "this is the content"
+  },
+  {
+    "id": 35,
+    "section": "8",
+    "route": "/metaverse",
+    "title": "Metaverse",
+    "content": "It's in the works..."
+  }
+]
