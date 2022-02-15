@@ -21,10 +21,10 @@ const GridLayout = (props) => {
         <nav className="col-start-2 row-start-1 border-b-2 border-solid border-gray-200 bg-white py-4 font-body text-base uppercase text-black lg:py-0">
           <ul className="flex h-full flex-wrap items-center justify-between gap-4 px-6 lg:justify-around lg:px-0">
             <li>
-              <Link to="/meet/alex">Meet the team</Link>
+              <Link to="/about">About</Link>
             </li>
             <li>
-              <Link to="/about">About</Link>
+              <Link to="/meet/evian">Meet the team</Link>
             </li>
             <li>
               <Link to="/metaverse">Metaverse</Link>
@@ -67,7 +67,7 @@ const GridLayout = (props) => {
                 <Link to="/specs/CC0997">Car specs</Link>
               </li>
               <li>
-                <Link to="/roadmap/automative-occasions">Road map</Link>
+                <Link to="/roadmap/automotive-occasions">Road map</Link>
               </li>
               <li>
                 <Link to="/showroom/bronze">Showroom</Link>
@@ -125,7 +125,7 @@ const GridLayout = (props) => {
                   slides="6"
                   active={slideId}
                   routes={[
-                    '/roadmap/automative-occasions',
+                    '/roadmap/automotive-occasions',
                     '/roadmap/special-commissions-program',
                     '/roadmap/dao',
                     '/roadmap/metaverse',

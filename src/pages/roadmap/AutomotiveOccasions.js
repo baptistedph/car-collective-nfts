@@ -2,8 +2,8 @@ import GridLayout from '../../layouts/GridLayout'
 import useApi from '../../hooks/useApi'
 import image from '../../assets/images/roadmap/automative-occasions.jpg'
 
-const RoadmapAutomativeOccasions = () => {
-  const { data } = useApi('/roadmap/automative-occasions')
+const RoadmapAutomotiveOccasions = () => {
+  const { data } = useApi('/roadmap/automotive-occasions')
 
   return (
     <div>
@@ -26,4 +26,4 @@ const RoadmapAutomativeOccasions = () => {
   )
 }
 
-export default RoadmapAutomativeOccasions
+export default RoadmapAutomotiveOccasions

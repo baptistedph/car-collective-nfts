@@ -5,7 +5,7 @@ const SidebarMint = () => {
         [ Mint ]
       </button>
       <h3 className="mt-20 font-body uppercase text-black">Public mint</h3>
-      <h4 className="mt-4 font-body uppercase text-black">1900/1900</h4>
+      <h4 className="mt-4 font-body uppercase text-black">1940/1940</h4>
     </aside>
   )
 }

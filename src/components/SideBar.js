@@ -12,6 +12,8 @@ import {
 
 const SideBar = ({ section, title, content, subtitle, colours }) => {
   switch (section) {
+    case '0':
+      return <SidebarMint />
     case '1':
       return <Sidebar1 title={title} content={content} />
 
@@ -44,7 +46,7 @@ const SideBar = ({ section, title, content, subtitle, colours }) => {
       return <Sidebar8 title={title} content={content} />
 
     default:
-      return <SidebarMint />
+      return <span>Loading...</span>
   }
 }
 

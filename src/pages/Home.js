@@ -4,7 +4,7 @@ import car from '../assets/images/cars/home.png'
 const Home = () => {
   return (
     <div>
-      <GridLayout>
+      <GridLayout section="0">
         <div className="flex h-full w-full items-center justify-center">
           <img
             src={car}

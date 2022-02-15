@@ -4,21 +4,21 @@
     "section": "1",
     "route": "/about",
     "title": "About",
-    "content": "Car Collective is the first NFT project to produce pixelated automotive artwork at a large-scale. 2424 hand-designed collectibles supercharged for Web3.\n\nA CC NFT is your access to a global network of automotive enthusiasts. Owning a CC NFT turns you into a CC Crew Member. Granting you access to the Car Collective Club. An exclusive Web3 platform across the Metaverse, bridging the gap between generations of car culture and the next generation NFT space.\n\nWe are fueled by our passion for cars. We will be THE destination for petrol geads in and outside the Metaverse with exclusive club memberships events, special auctions, merchandise and much more."
+    "content": "Car Collective is the first NFT project to produce pixelated automotive artwork on a large-scale. 2424 hand-designed collectibles supercharged for Web3.\n\nA CC NFT is your access to a global network of automotive enthusiasts. Owning a CC NFT turns you into a CC Crew Member, granting you access to the Car Collective Club. An exclusive Web3 platform across the Metaverse, bridging the gap between generations of car culture and the next generation NFT space.\n\nWe are fueled by our passion for cars. We will be THE destination for petrol heads in and outside the Metaverse with exclusive club memberships events, special auctions, merchandise and much more."
   },
   {
     "id": 2,
     "section": "1",
     "route": "/car-creation",
     "title": "Car creation",
-    "content": "Our in-house artist and co-founder Evian, hand-designs every CC collectible. These 1/1 NFTs are built on a 100x100 pixel grid format.\n\nBefore every car is made, Evian researches the wheelbase of the chosen car. This is a perfect indicator to apply correct scale in the Car Collective Universe. He then researches to find the factory colours that came with the car from period, along with wheel colours, interior trims and even any accessories, attachments or body kits. He begins designing the cars with the tyres, finding the right spacing for wheelbase and then building from the ground up."
+    "content": "Our in-house artist and co-founder Evian hand-designs every CC collectible. These 1/1 NFTs are built on a 100x100 pixel grid format.\n\nBefore every car is made, Evian researches the wheelbase of the chosen car. This is a perfect indicator to apply correct scale in the Car Collective Universe. He then researches to find the factory colours that came with the car from that period, along with wheel colours, interior trims and even any accessories, attachments or body kits. He begins designing the cars with the tyres, finding the right spacing for wheelbase and then building from the ground up."
   },
   {
     "id": 3,
     "section": "1",
     "route": "/genesis-collection",
     "title": "Genesis collection",
-    "content": "There are 2424 hand designed NFTs, all are created on the Solana blockchain.\n\nEach piece has been designed by own very own in-house artist. Every pixel and choice of colour has been meticulously placed to characterise a detailed yet unique collectibe artwork.\n\nThe Genesis collection consists of 60 different models, all assigned to one of four categories. In the Genesis collection, there is something for everyone, fron small hatchbacks to SUVs and even hypercars. We're also thrown in some easter eggs too."
+    "content": "There are 2424 hand designed NFTs all created on the Solana blockchain.\n\nEach piece has been designed by our in-house artist. Every pixel and choice of colour has been meticulously placed to characterise a detailed and unique collectibe artwork.\n\nThe Genesis collection consists of 60 different models, all assigned to one of four categories. In the Genesis collection there is something for everyone, from small hatchbacks to SUVs and even hypercars. We’ve also thrown some easter eggs in too."
   },
   {
     "id": 4,
@@ -158,10 +158,10 @@
     "id": 12,
     "section": "4",
     "slideId": "1",
-    "route": "/roadmap/automative-occasions",
+    "route": "/roadmap/automotive-occasions",
     "title": "Road map",
-    "subtitle": "Automative Occasions",
-    "content": "Up until now, the Car Collective Club has been predominantly digital.\n\nOn the next part of the journey, we will deploy real life utility for CC Club Members.\n\nReal world events will consist of local meet ups, activities and exclusive occasions around the world.\n\nThis will begin in the form of real world crew activities and events beginning in March with our London event. Shortly followed by Car Collective x Miami."
+    "subtitle": "Automotive Occasions",
+    "content": "Up until now the Car Collective Club has been predominantly digital.\n\nOn the next part of the journey, we will deploy real life utility for CC Club Members.\n\nReal world events will consist of local meet ups, activities and exclusive occasions around the world.\n\nThis will begin in the form of real world crew activities and events beginning in March with our London event. Shortly followed by Car Collective x Miami."
   },
   {
     "id": 13,
@@ -170,7 +170,7 @@
     "route": "/roadmap/special-commissions-program",
     "title": "Road map",
     "subtitle": "Special Commissions Program",
-    "content": "Up until now, the Car Collective Club has been predominantly digital.\n\nOn the next part of the journey, we will deploy real life utility for CC Club Members.\n\nReal world events will consist of local meet ups, activities and exclusive occasions around the world.\n\nThis will begin in the form of real world crew activities and events beginning in March with our London event. Shortly followed by Car Collective x Miami."
+    "content": "As we grow our community, we will be releasing collections in collaboration with key personalities and brands within the NFT and Automotive space.\n\nThese NFT collections will come with exclusive utility, providing new opportunities for brands to engage with their fanbase."
   },
   {
     "id": 14,
@@ -179,7 +179,7 @@
     "route": "/roadmap/dao",
     "title": "Road map",
     "subtitle": "DAO",
-    "content": "Car Collective is fueled by community.\n\nThe integration of a DAO allow us to directly engage with the community and provide the best possible CC club experience.\n\nMore info on The Car Collective DAO to follow in our Discord.\n\nvarimo — 12/02/2022"
+    "content": "Car Collective is fueled by community.\n\nThe integration of a DAO allow us to directly engage with the community and provide the best possible CC club experience.\n\nMore info on The Car Collective DAO to follow in our Discord.\n\nVarimo — 12/02/2022"
   },
   {
     "id": 15,
@@ -188,7 +188,7 @@
     "route": "/roadmap/metaverse",
     "title": "Road map",
     "subtitle": "Metaverse",
-    "content": "For a truly unmatched experience for Car Collective members, we will roll out a brand new website fully optimised for Web3.\n\nA digital experience of a private club. With virtual garages, auction platforms, chat rooms and more.\n\nMembers will be able to experience a 24/7 interactive network with\n\nlikeminded individuals across the world through their shared passion for cars."
+    "content": "For a truly unmatched experience for Car Collective members, we will roll out a brand new website fully optimised for Web3.\n\nA digital experience of a private club. With virtual garages, auction platforms, chat rooms and more.\n\nMembers will be able to experience a 24/7 interactive network with\n\nLikeminded individuals across the world through their shared passion for cars."
   },
   {
     "id": 16,
@@ -197,7 +197,7 @@
     "route": "/roadmap/generative-collection",
     "title": "Road map",
     "subtitle": "Generative Collection",
-    "content": "Every single car in The Genesis Collection has been designed by hand.\n\nFor future collections, our in-house artist Ev will work directly with developers to produce exclusive Generative Collections based on the communities most requested cars."
+    "content": "Every single car in The Genesis Collection has been designed by hand.\n\nFor future collections, our in-house artist Ev will work directly with developers to produce exclusive Generative Collections, based on the communities most requested cars."
   },
   {
     "id": 17,
@@ -245,6 +245,20 @@
     "title": "Showroom"
   },
   {
+    "id": 30,
+    "section": "6",
+    "route": "/meet/evian",
+    "title": "Meet the team",
+    "subtitle": "Evian",
+    "content": [
+      "Co-founder",
+      "Creative direction",
+      "Product designer",
+      "Car enthusiast",
+      { "next": "alex", "previous": "" }
+    ]
+  },
+  {
     "id": 26,
     "section": "6",
     "route": "/meet/alex",
@@ -255,7 +269,7 @@
       "Operations",
       "Rolls Royce Technician",
       "Crypto enthusiast",
-      { "next": "taran", "previous": "" }
+      { "next": "taran", "previous": "evian" }
     ]
   },
   {
@@ -294,21 +308,7 @@
       "Community manager",
       "Computer scientist",
       "Gaming enthusiast",
-      { "next": "evian", "previous": "kenny" }
-    ]
-  },
-  {
-    "id": 30,
-    "section": "6",
-    "route": "/meet/evian",
-    "title": "Meet the team",
-    "subtitle": "Evian",
-    "content": [
-      "Co-founder",
-      "Creative direction",
-      "Product designer",
-      "Car enthusiast",
-      { "next": "", "previous": "kyle" }
+      { "next": "", "previous": "kenny" }
     ]
   },
   {

@@ -12,7 +12,7 @@ import SpecsCC0997 from './pages/specs/CC0997'
 import SpecsCC0032 from './pages/specs/CC0032'
 import SpecsCC0159 from './pages/specs/CC0159'
 import SpecsCC0338 from './pages/specs/CC0338'
-import RoadmapAutomativeOccasions from './pages/roadmap/AutomativeOccasions'
+import RoadmapAutomotiveOccasions from './pages/roadmap/AutomotiveOccasions'
 import RoadmapSpecialCommissionsProgram from './pages/roadmap/SpecialCommissionsProgram'
 import RoadmapCCPrivateCarClub from './pages/roadmap/CCPrivateCarClub'
 import RoadmapGenerativeCollection from './pages/roadmap/GenerativeCollection'
@@ -53,8 +53,8 @@ const Router = () => {
         <Route path="/specs/CC0159" element={<SpecsCC0159 />} />
         <Route path="/specs/CC0032" element={<SpecsCC0032 />} />
         <Route
-          path="/roadmap/automative-occasions"
-          element={<RoadmapAutomativeOccasions />}
+          path="/roadmap/automotive-occasions"
+          element={<RoadmapAutomotiveOccasions />}
         />
         <Route
           path="/roadmap/special-commissions-program"
