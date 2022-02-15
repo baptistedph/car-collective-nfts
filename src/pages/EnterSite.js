@@ -20,19 +20,25 @@ const EnterSite = () => {
       </div>
       <div className="absolute bottom-0 left-1/2 mb-8 flex -translate-x-1/2 transform items-center justify-between gap-6">
         <a
-          href="/"
+          href="https://twitter.com/_CarCollective"
+          target="_blank"
+          rel="noreferrer"
           className="flex h-20 w-20 items-center justify-center rounded-full bg-black p-4"
         >
           <img src={twitter} alt="twitter logo" />
         </a>
         <a
-          href="/"
+          href="https://discord.gg/carcollective"
+          target="_blank"
+          rel="noreferrer"
           className="flex h-20 w-20 items-center justify-center rounded-full bg-black p-4"
         >
           <img src={discord} alt="discord logo" />
         </a>
         <a
-          href="/"
+          href="https://www.instagram.com/_carcollective/"
+          target="_blank"
+          rel="noreferrer"
           className="flex h-20 w-20 items-center justify-center rounded-full bg-black p-4"
         >
           <img src={instagram} alt="instagram logo" />

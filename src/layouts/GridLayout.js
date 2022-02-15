@@ -33,19 +33,25 @@ const GridLayout = (props) => {
         </nav>
         <div className="col-start-3 row-start-1 flex items-center justify-between border-b-2 border-l-2 border-solid border-gray-200 bg-white py-4 px-6 lg:px-16 lg:py-0">
           <a
-            href="/"
+            href="https://twitter.com/_CarCollective"
+            target="_blank"
+            rel="noreferrer"
             className="flex h-10 w-10 items-center justify-center rounded-full bg-black p-3 lg:h-14 lg:w-14"
           >
             <img src={twitter} alt="twitter logo" />
           </a>
           <a
-            href="/"
+            href="https://discord.gg/carcollective"
+            target="_blank"
+            rel="noreferrer"
             className="flex h-10 w-10 items-center justify-center rounded-full bg-black p-3 lg:h-14 lg:w-14"
           >
             <img src={discord} alt="discord logo" />
           </a>
           <a
-            href="/"
+            href="https://www.instagram.com/_carcollective/"
+            target="_blank"
+            rel="noreferrer"
             className="flex h-10 w-10 items-center justify-center rounded-full bg-black p-3 lg:h-14 lg:w-14"
           >
             <img src={instagram} alt="instagram logo" />
