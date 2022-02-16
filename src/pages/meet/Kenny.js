@@ -3,7 +3,7 @@ import useApi from '../../hooks/useApi'
 import car from '../../assets/images/cars/meet/kenny.png'
 
 const MeetKenny = () => {
-  const { data } = useApi('/meet/kenny')
+  const { data } = useApi('/meet/kennyatta')
 
   return (
     <div>

@@ -84,7 +84,7 @@ const Router = () => {
         />
         <Route path="/meet/alex" element={<MeetAlex />} />
         <Route path="/meet/taran" element={<MeetTaran />} />
-        <Route path="/meet/kenny" element={<MeetKenny />} />
+        <Route path="/meet/kennyatta" element={<MeetKenny />} />
         <Route path="/meet/kyle" element={<MeetKyle />} />
         <Route path="/meet/evian" element={<MeetEvian />} />
         {/* <Route path="/community/1" element={<Community1 />} />

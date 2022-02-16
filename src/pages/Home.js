@@ -1,5 +1,5 @@
 import GridLayout from '../layouts/GridLayout'
-import car from '../assets/images/cars/home.png'
+import car from '../assets/images/cars/home.jpeg'
 
 const Home = () => {
   return (

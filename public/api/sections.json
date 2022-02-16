@@ -282,15 +282,15 @@
       "Head of social",
       "Account manager",
       "Crypto enthusiast",
-      { "next": "kenny", "previous": "alex" }
+      { "next": "kennyatta", "previous": "alex" }
     ]
   },
   {
     "id": 28,
     "section": "6",
-    "route": "/meet/kenny",
+    "route": "/meet/kennyatta",
     "title": "Meet the team",
-    "subtitle": "Kenny",
+    "subtitle": "Kennyatta",
     "content": [
       "Brand direction",
       "Brand strategists",
@@ -308,7 +308,7 @@
       "Community manager",
       "Computer scientist",
       "Gaming enthusiast",
-      { "next": "", "previous": "kenny" }
+      { "next": "", "previous": "kennyatta" }
     ]
   },
   {

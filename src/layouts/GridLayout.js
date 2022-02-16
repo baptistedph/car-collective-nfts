@@ -12,7 +12,7 @@ const GridLayout = (props) => {
 
   return (
     <>
-      <div className="h-screen grid-cols-[250px,_1fr,_320px] grid-rows-[110px,_1fr] lg:grid xl:grid-cols-[250px,_1fr,_380px]">
+      <div className="h-screen grid-cols-[250px,_1fr,_320px] grid-rows-[110px,_1fr] lg:grid xl:grid-cols-[250px,_1fr,_430px]">
         <div className="col-start-1 row-start-1 flex items-center justify-center border-b-2 border-r-2 border-solid border-gray-200 bg-white p-4">
           <Link to="/home">
             <img src={logo} alt="car collective logo" />
